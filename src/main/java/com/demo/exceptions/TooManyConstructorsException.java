@@ -1,4 +1,4 @@
-package exceptions;
+package com.demo.exceptions;
 
 public class TooManyConstructorsException extends RuntimeException {
 
